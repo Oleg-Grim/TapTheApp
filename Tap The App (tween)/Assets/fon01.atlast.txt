@@ -1,0 +1,27 @@
+
+fon01.png
+size: 1739,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fon01
+  rotate: false
+  xy: 2, 2
+  size: 577, 1025
+  orig: 577, 1025
+  offset: 0, 0
+  index: -1
+fon02
+  rotate: false
+  xy: 581, 2
+  size: 577, 1025
+  orig: 577, 1025
+  offset: 0, 0
+  index: -1
+fon03
+  rotate: false
+  xy: 1160, 2
+  size: 577, 1025
+  orig: 577, 1025
+  offset: 0, 0
+  index: -1
